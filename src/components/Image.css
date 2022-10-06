@@ -1,0 +1,23 @@
+h4{
+    position: relative;
+    left: 20px;
+}
+
+img{
+    background-image: url("Images/user.png");
+    margin:0 auto;
+    display:block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px #1976D2 solid;
+    object-fit: cover;
+}
+
+.input-image{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    margin:0 auto;
+    display:block;
+}
