@@ -11,7 +11,7 @@ function App() {
 	return (
 		<div className="App">
 			<h4>Dodaj swoje zdjęcie, przyśpieszy to weryfikacje konta:</h4>
-            <img src={file} />
+            <img src={file} alt="photo"/>
 			<input type="file"  class="input-image"  onChange={handleChange} />
 			
 
